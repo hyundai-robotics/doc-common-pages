@@ -1,3 +1,3 @@
-﻿# Common Pages
+﻿# 공통 페이지들
 
-This book contains common pages for HRBook.
+이 책은 HRBook을 위한 공통 페이지들을 담고 있습니다.
