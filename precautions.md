@@ -1,15 +1,15 @@
 ﻿{% hint style="warning" %}
 
- - The information provided in this product manual is the property of HD Hyundai Robotics.
- - Without prior written consent from HD Hyundai Robotics, this manual may not be reproduced or redistributed, in whole or in part, nor may it be provided to third parties or used for any other purpose.
- - This manual is subject to change, modification, or update without prior notice.
- - All engineers designated for robot operation, training, maintenance, or inspection are recommended to complete the training programs provided by HD Hyundai Robotics.
- - HD Hyundai Robotics assumes no responsibility for any errors that may appear in this manual.
- - Except where expressly stated otherwise in this manual, HD Hyundai Robotics makes no warranties of any kind, including but not limited to warranties regarding personal injury, property damage, or fitness for a particular purpose.
- - Under no circumstances shall HD Hyundai Robotics be liable for any incidental or consequential damages arising from the use of this manual or the products described herein.
- - Please be familiar with the relevant manual before using industrial robot products.
- - Workers who maintain, repair or operate the robot must ensure that the robot is handled after completing the appropriate training courses.
- - Users of industrial robots are responsible for ensuring that they understand and comply with the relevant safety laws and regulations and for designing, installing and operating safeguards to protect workers working in the robot system.
+- 本产品手册中提供的信息属于 HD现代机器人 的资产。
+- 未经 HD现代机器人 书面同意，不得擅自全部或部分转载或再分发，也不得提供给第三方或用于其他目的。
+- 本手册内容可能在未事先通知的情况下进行变更、修改或更新。
+- 所有被指定用于机器人操作、培训、维护或检查的工程师，建议完成由 HD现代机器人 提供的培训课程。
+- HD现代机器人 对本手册中可能出现的任何错误不承担责任。
+- 除本手册中明确特别说明的情况外，HD现代机器人 不对人身或财产损失、损害、特定用途适用性等作出任何形式的保证。
+- 在任何情况下，HD现代机器人 均不对因使用本手册及本文档中所述产品而产生的偶发性或后果性损害承担责任。
+- 在使用工业机器人产品之前，请务必熟悉相关手册内容。
+- 从事机器人维护、维修及操作的人员，必须完成适当的培训课程后方可操作机器人。
+- 工业机器人的使用者有责任充分了解并遵守所在国家适用的与机器人相关的安全法规，并负责正确设计、安装和运行安全装置，以保护在机器人系统中工作的人员。
 
 ⓒ Copyright ${_copyrightYear}. HD Hyundai Robotics. All rights reserved.
 

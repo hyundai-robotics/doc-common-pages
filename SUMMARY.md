@@ -1,4 +1,4 @@
 ﻿# Table of contents
 
-* [Precautions](precautions.md)
-* [Rules on Occupational Safety and Health Standards](rules-occupational-safety.md)
+* [注意事项](precautions.md)
+* [职业安全与健康标准规则](rules-occupational-safety.md)

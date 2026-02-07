@@ -1,12 +1,12 @@
 ﻿{
-    "langCode": "en",
+    "langCode": "zh",
     "series": "${cont_model} Controller",
-    "title": "Common pages",
+    "title": "公共页面",
     "publisher": "HD Hyundai Robotics",
     "tocTitle": "Table of Contents",
     "tocTitleElements": "[ \"h1\", \"h2\" ]",
-    "docId": "${cont_model:upper}COMMONPAGES_EN_001",
+    "docId": "${cont_model:upper}COMMONPAGES_ZH_001",
     "references": [
-        { "rpath" : "doc-common-pages/en" }
+        { "rpath" : "doc-common-pages/zh" }
     ]
 }

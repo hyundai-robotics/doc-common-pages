@@ -1,3 +1,3 @@
-﻿# Common Pages
+﻿# 公共页面
 
-This book contains common pages for HRBook.
+本书收录了 HRBook 所使用的通用页面。

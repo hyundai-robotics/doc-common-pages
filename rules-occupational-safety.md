@@ -1,42 +1,168 @@
-The industrial robot should be installed in consideration of the inspection standards both of the Rules on Occupational Safety and Health Standards and of the Notice for Safety Inspection \(if subject to inspection\).
+工业机器人安装及安全作业相关规定
+
+工业机器人应在考虑《职业安全与健康标准规则》以及《安全检查公告》（如适用检查对象）的检查标准的前提下进行安装。
 
 <br>
 
-Article 222 (Teaching, etc.) When it is required to perform works such as teaching \[this refers to setting or changing the operation sequence, position and speed of the manipulator, or checking the result, and will be the same in the following] on the robot within the operation range of an industrial robot (hereinafter referred to as “robot”), the business owner is required to take the measures described under the following items to prevent the danger that could be caused by the unexpected operation of or mistakes in the operation of the robot. However, if the works are performed with the robot’s driving source cut off, measures #1 and #2 below may not be taken (Revised on April 7, 2016).
+## 第222条（示教等作业）
 
-1\.	Establish guidelines for the following items, and make sure that works are performed according to the guidelines.
+在工业机器人（以下简称“机器人”）的作业范围内进行示教等作业时（示教系指对操作顺序、机械手位置及速度的设定或变更，或对其结果的确认，下同），经营者必须采取以下各项所列措施，以防止因机器人意外动作或误操作而产生的危险。
+但如果在切断机器人驱动源的状态下进行作业，则可以不采取下述第1项及第2项的措施。（2016年4月7日修订）
 
-A. Robot operation method and sequence
+就下列事项制定作业指南，并确保作业按照该指南执行。
 
-B. Manipulator speed during a work
+A. 机器人的操作方法及顺序
 
-C. Signaling method when having two or more workers to carry out works
+B. 作业时机械手的速度
 
-D. Measures to take when finding an abnormality&#x20;
+C. 两名及以上作业人员同时作业时的信号联络方法
 
-E. Measures to take when finding an abnormality and stopping the operation of the robot and restarting the operation
+D. 发现异常时应采取的措施
 
-F. Other measures necessary to prevent the danger that could be caused by unexpected operation of or mistakes in operation of the robot
+E. 发现异常并停止机器人运行后，再启动运行时应采取的措施
 
-2\.	Workers engaged in the works or those who monitor the workers should take measures to stop the operation of the robot immediately if an abnormality is found.
+F. 其他为防止因机器人意外动作或误操作而产生危险所需的措施
 
-3\.	In the process of performing works, it is required to take measures such as putting up a marking on the start switch, for example, to indicate that works are underway, to prevent workers other than the ones currently engaged in the works from manipulating the start switch.
+从事该作业的人员或对其进行监控的人员，在发现异常时，应能够立即采取措施停止机器人的运行。
 
-4\.	Article 223 (Prevention of Dangers during Operation) The business owner is required to install a fence of 1.8 m or more in height (the height can be adjusted lower if there is no danger that could be caused due to the height when considering the operation range of the robot) to prevent the risk of workers being injured that may occur because of the operation of the robot (excluding the operation of the robot for the teaching according to Article 222 and also the operation of the robot in compliance with conditions of Article 224). In some sections where a fence cannot be installed because of the installation of a conveyor system, etc., a responsive protective device such as a safety mat or optoelectronic protective device should be installed. However, if the Minister of Employment and Labor acknowledges that the safety standard for the robot meets the safety standards set by Korean industrial standards under Article 12 of the Industrial Standardization Act or internationally accepted safety standards, it is possible to forego measures according to the text of this document.
+在作业过程中，应采取诸如在启动开关上设置标识等措施，以明确显示“正在作业中”，防止非作业人员操作启动开关。
 
-5\.	Article 224 (Including the measures to take when performing works such as repairing) When the work such as repairing, inspecting, adjusting (excluding teaching), cleaning, refueling the robot or confirming relevant results within the operation range of the robot is underway, the business owner should take necessary measures such as locking up the start switch of the robot by using a key and managing the key separately, or putting up a signboard on the start switch indicating that a work is underway, to ensure that the robot can be stopped, and, at the same time, anyone other than the workers engaged in the work should be prevented from manipulating the start switch. However, this is not the case if a work must be performed even during the operation of the robot, and, in such situation, measures of the individual items under Article 222 are taken to prevent the danger that could be caused by an unexpected operation or mistakes in operation.
+<br>
 
-| <p><br></p>                              | 【Appendix 14】Inspection Standards for Industrial Robots (Related to Article 30)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Automatic operation mode                 | <p>A. In the automatic operation mode, safety devices such as fences should maintain the normal function, and if a person enters the protected area, the protective stop function should be activated.</p><p>B. Protective stop or emergency stop should not be reset or disabled when the automatic operation mode is selected.</p><p>C. Automatic operation mode should be deactivated when a stop signal is given.</p><p>D. When the automatic mode is selected, the starting of the automatic mode should be possible only by a separate start operation outside the protected area.</p><p>E. Changing from automatic operation mode to other operation modes should be possible only when driving is stopped.</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| Control of the pendant                   | If the pendant has a string, its length should be sufficient for the teaching operator to perform the work safely.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| Electric connection devices              | Electric connection devices such as electric outlets that are to be connected to the robot should not be separated arbitrarily.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| Robot system layout design               | <p>The layout of the robotic system for the operation area, access, and free space should be appropriate in compliance with the following items.</p><p>A. The maximum area of the robot should be checked first. Then, the restricted area and operation area should be set, and there should be a free space between the robot and obstacles such as pillars of the building.</p><p>B. A passage such as a pedestrian passage should be secured for safe passage.</p><p>C. Access to and from the path for the control system should be safe.</p><p>D. A safety passage for approaching inspection, cleaning, repair, maintenance, etc. should be secured.</p><p>E. There should be no risk of slipping, tripping, or falling over due to wiring or other dangerous sources.</p><p>F. There should be no danger caused by the cable tray, etc.</p><p>G. Operation controllers and auxiliary equipment (welding controllers, pneumatic valves, etc.) that workers need to access during automatic operation should be located outside the protected area.</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| Robot system stop function               | <p>All robot systems should have a protective stop function and also a separate emergency stop function.</p><p>A. Emergency stop function</p><p>1) The robot system should have a single emergency stop function that operates for all relevant parts of the system.</p><p>2) In the case of multi-robots or multi-cells, the control range can be divided, and the control range should be clearly indicated using characters or symbols near the emergency stop device.</p><p>3) When there are more than two control positions, the emergency stop device installed in each control position should always maintain its function.</p><p>4) This function should take priority over all other robot controls and, in case of an emergency stop, should remove the driving power from the robot drive unit and maintain the stop state until initialization.</p><p>5) Initialization should be performed manually only, and restarting should not be performed immediately after initialization but should be carried out through a separate starting operation.</p><p>6) The performance of the emergency stop circuit should satisfy the safety related control system performance requirements of item no. 4.</p><p>B. Protective stop function</p><p>1) The robot system should be equipped with one or more protection stop circuits for connection with external protection devices.</p><p>2) When activated, the protective stop circuit should be capable of stopping the robot operation, removing the actuator power, and controlling all dangerous sources controlled by the robot.</p><p>3) Protective stop should be started manually or by control logic.</p><p>4) At least one protection stop function should be 0 stop method or 1 stop method</p><p>Note 1) 0 stop method: Stopping will be performed through immediate cut-off of the actuator power</p><p>Note 2) 1 stop method: the power will be cut off after the machine stops while the actuator power is supplied.</p><p>5) The performance of the protective stop circuit should satisfy the safety-related control system performance requirements of item no. 4.</p>                                                                       |
-| Manual resetting, staring and restarting | <p>The robot system should be appropriate in compliance with the following items to prevent unexpected starting.</p><p>A. Starting and restarting should be possible only when all safety functions and protective measures are operating normally.</p><p>B. If the power supply is interrupted and then resumed, a starting interlocking device should be installed to prevent the automatic starting of dangerous operations and should be reset only by manual operation.</p><p>C. Start and restart control should be manually operated outside the protected area and should be impossible to activate within the protected area.</p><p>D. The start and restart control unit should be located where the protected area can be visibly seen. However, if it is difficult to secure a view of the protected area, it is required to comply with one of the following items.</p><p>1) Installation of a detection device that can detect the presence of workers in the protected area</p><p>2) Installation of means to keep the door open</p><p>3) Installation of an additional device for time limit reset inside the protected area</p><p>4) Generation of audible and visual warning signals that can be sufficiently recognized inside the protected area, and provision of sufficient evacuation time</p><p>E. When it comes to complying with item 4) of D above, it is required to install a sufficient number of emergency stop devices in the protected area at a location that the operator can access easily.</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| Protected area, fence. etc.              | <p>Protected areas and measures should be appropriate in compliance with the following items. However, in the case of cooperative robots, some applications may be excluded depending on the operation method.</p><p>A. The restricted area should be located within the protected area</p><p>B. The protected area should be established by means of a fence. However, when it comes to an opening for taking in and out materials or parts, the protected area should be established by a responsive protective device, etc.</p><p>C. The fence for the robot cell should be appropriated in compliance with the following items.</p><p>1) The fence should be firmly installed so as not to be easily damaged by external force and should be of a structure that can be removed only with tools.</p><p>2) If the fence has an opening for taking in and out materials or parts, it is required to physically prevent workers from accessing dangerous points under, next to, or through the opening, and if such measures are not possible, it is required to take additional measures such as using responsive protective devices.</p><p>3) The height of the fence should be over 1,800 mm. However, if there is no danger that could be caused due to the height, in consideration of both the operation range of the robot and the safety distance according to KS B ISO 13857, the height of the fence may be over 1,400 mm.</p><p>4) The movable fence (entry door) should be opened to the side or in the direction of moving away from a source of danger, and should be structured in a way that it does not open toward the protected area.</p><p>5) An interlocking device should be installed to the movable fence (entry door), and it should be able to turn the source of danger into safe state before the workers approach it. However, if there is a possibility of accessing the dangerous area before the source of danger is removed, there should be a locking device for the entry door in addition to the interlocking device.</p><p>6) The movable fence (entry door) locking device should allow the start of the robot only when the movable fence (entry door) is closed and locked.</p> |
+## 第223条（运行中危险的防止）
 
+经营者应设置高度不低于1.8米的围栏（在综合考虑机器人的作业范围且不存在因高度而引发危险的情况下，可适当降低高度），以防止因机器人运行而可能导致作业人员受伤的危险。
+但下列情形除外：
 
+根据第222条进行示教作业时的机器人运行
 
+符合第224条条件下的机器人运行
 
+对于因输送系统等原因无法设置围栏的区域，应设置安全垫、光电式防护装置等响应式防护装置。
+此外，如雇佣劳动部长认定该机器人的安全标准符合《产业标准化法》第12条规定的韩国工业标准或国际通用的安全标准，则可免除本条正文所述的措施。
 
+<br>
+
+## 第224条（包括维修等作业时的措施）
+
+在机器人作业范围内进行维修、检查、调整（不包括示教）、清洁、加油或确认相关结果等作业时，经营者应采取以下必要措施，以确保机器人能够停止运行，并防止非作业人员操作启动开关：
+
+使用钥匙对机器人启动开关进行上锁，并对钥匙进行单独管理
+
+或在启动开关上设置“作业中”的标示牌
+
+但如必须在机器人运行状态下进行作业时，不适用上述规定；在此情况下，应采取第222条各项所规定的措施，以防止因意外动作或误操作而产生的危险。
+
+## [附录14] 工业机器人检查标准（与第30条相关）
+
+### 自动运行模式
+
+A. 在自动运行模式下，围栏等安全装置应保持正常功能；当人员进入防护区域时，应启动防护停止功能。
+
+B. 在选择自动运行模式时，不得复位或解除防护停止或紧急停止功能。
+
+C. 当发出停止信号时，应解除自动运行模式。
+
+D. 在选择自动运行模式时，自动运行的启动只能通过在防护区域外进行的单独启动操作来实现。
+
+E. 从自动运行模式切换至其他运行模式时，必须在驱动停止状态下进行。
+
+### 示教器（Pendant）的控制
+
+如示教器配有连接线，其长度应足以确保示教作业人员能够安全地进行作业。
+
+### 电气连接装置
+
+与机器人连接的电气连接装置（如电源插座等）不得被任意拆卸。
+
+### 机器人系统布局设计
+
+机器人系统在作业区域、通行及自由空间的布局设计应符合以下要求：
+
+A. 事先确认机器人最大运行范围，并设定限制区域与作业区域，同时应确保机器人与建筑立柱等障碍物之间留有自由空间。
+
+B. 应确保行人通道等安全通行路线。
+
+C. 控制系统的进出路径应确保安全。
+
+D. 应确保用于检查、清洁、维修、维护等作业的安全通道。
+
+E. 不得因布线等危险源而存在滑倒、绊倒或跌落的危险。
+
+F. 不得因电缆桥架等造成危险。
+
+G. 在自动运行期间需由作业人员接近的操作控制器及辅助设备（如焊接控制器、气动阀等）应设置在防护区域外。
+
+### 机器人系统停止功能
+
+所有机器人系统均应具备防护停止功能及独立的紧急停止功能。
+
+A. 紧急停止功能
+
+应设置一个能够作用于系统所有相关部分的统一紧急停止功能。
+
+在多机器人或多单元系统中，可划分控制范围，并应在紧急停止装置附近以文字或符号明确标示。
+
+当存在两个以上控制位置时，各控制位置的紧急停止装置应始终保持有效。
+
+紧急停止功能应优先于所有其他控制功能，在启动时应切断机器人驱动单元的动力，并保持停止状态直至初始化。
+
+初始化仅可通过人工操作进行，且初始化后不得立即重新启动，应通过单独的启动操作来实现。
+
+紧急停止回路的性能应满足第4项所规定的安全相关控制系统性能要求。
+
+B. 防护停止功能
+
+机器人系统应配备一个或多个可与外部防护装置连接的防护停止回路。
+
+启动时，防护停止回路应能够停止机器人运行、切断执行器动力，并控制由机器人控制的所有危险源。
+
+防护停止应可通过人工或控制逻辑启动。
+
+至少应具备一种0类停止方式或1类停止方式。
+
+注1：0类停止方式——通过立即切断执行器动力来停止
+
+注2：1类停止方式——在执行器动力供应状态下先停止机械动作，再切断动力
+
+防护停止回路的性能应满足第4项所规定的安全相关控制系统性能要求。
+
+### 手动复位、启动及再启动
+
+为防止意外启动，机器人系统应符合以下要求：
+
+A. 仅在所有安全功能及防护措施正常运行时，方可进行启动或再启动。
+
+B. 电源中断并恢复后，应设置启动联锁装置以防止危险动作自动启动，并且只能通过人工操作进行复位。
+
+C. 启动及再启动操作应在防护区域外进行，且在防护区域内无法启动。
+
+D. 启动及再启动控制装置应设置在可直接目视防护区域的位置；如难以确保视野，应符合以下任一条件：
+  1. 安装可检测防护区域内是否有人员存在的检测装置
+  2. 设置保持门开启的装置
+  3. 在防护区域内设置带时间限制的复位装置
+  4. 产生在防护区域内可清晰识别的声光警示信号，并提供足够的撤离时间
+
+E. 在符合上述D-4项条件时，应在防护区域内设置足够数量、且作业人员易于接近的紧急停止装置。
+
+### 防护区域、围栏等
+
+防护区域及防护措施应符合以下要求（协作机器人在某些应用中可根据运行方式予以例外）：
+
+A. 限制区域应设置在防护区域内。
+
+B. 防护区域原则上应通过围栏进行设置；但在材料或零部件进出开口处，可采用响应式防护装置等方式。
+
+C. 机器人单元的围栏应符合以下要求：
+
+围栏应牢固安装，不易因外力损坏，且只能使用工具拆除。
+
+如围栏设有材料或零部件进出口，应采取物理措施防止人员从下方、侧面或穿过开口接触危险点；如无法采取该等措施，应追加设置响应式防护装置。
+
+围栏高度应不低于1,800 mm；但在综合考虑机器人运行范围及依据 KS B ISO 13857 的安全距离，且不存在危险的情况下，围栏高度可不低于1,400 mm。
+
+可移动围栏（出入口门）应向侧面或远离危险源方向开启，不得朝向防护区域开启。
+
+可移动围栏（出入口门）应设置联锁装置，使作业人员接近前危险源已处于安全状态；如在危险源消除前仍可能进入危险区域，则应在联锁装置之外另行设置门锁装置。
+
+可移动围栏（出入口门）的锁定装置应确保仅在围栏关闭并锁定的状态下，机器人方可启动。
