@@ -11,6 +11,6 @@
  - Workers who maintain, repair or operate the robot must ensure that the robot is handled after completing the appropriate training courses.
  - Users of industrial robots are responsible for ensuring that they understand and comply with the relevant safety laws and regulations and for designing, installing and operating safeguards to protect workers working in the robot system.
 
-ⓒ Copyright ${copyrightYear}. HD Hyundai Robotics. All rights reserved.
+ⓒ Copyright ${_copyrightYear}. HD Hyundai Robotics. All rights reserved.
 
 {% endhint %}
