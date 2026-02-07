@@ -1,3 +1,4 @@
 ﻿# Table of contents
 
-* [Copyright](copyright.md)
+* [Precautions](precautions.md)
+* [Rules on Occupational Safety and Health Standards](rules-occupational-safety.md)
