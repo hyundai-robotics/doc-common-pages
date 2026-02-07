@@ -12,3 +12,5 @@
  - Users of industrial robots are responsible for ensuring that they understand and comply with the relevant safety laws and regulations and for designing, installing and operating safeguards to protect workers working in the robot system.
 
 ⓒ Copyright ${copyrightYear}. HD Hyundai Robotics. All rights reserved.
+
+{% endhint %}
