@@ -16,6 +16,8 @@
 
 - 机器人的使用者有责任充分了解并遵守所在国家适用于机器人的相关安全法律法规，同时有责任正确设计、安装和运行安全防护装置，以保护在机器人系统内工作的人员安全。
 
+- 如需其他详细信息，请通过我司官方网站 [http://www.hyundai-robotics.cn/](http://www.hyundai-robotics.cn/) 进行咨询。
+
 
 ⓒ Copyright ${_copyrightYear}. HD Hyundai Robotics. All rights reserved.
 
